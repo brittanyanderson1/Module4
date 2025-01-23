@@ -1,3 +1,7 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+import EmployeeList from '/EmployeeList.jsx'
+
 const initialEmployees = [
     {
         id: 1,
